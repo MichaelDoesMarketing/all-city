@@ -99,4 +99,4 @@ Decent-looking presence. The front door is invisible to machines and credits a t
 
 ## License
 
-MIT. Michael Daughters.
+MIT. Use it, fork it, ship it.
